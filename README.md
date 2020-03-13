@@ -6,7 +6,7 @@ Instantly generate multiple responsive image for your lazy loading. Powered by d
 
 ## Demo
 - Live: https://skyview.evius.id
-- Video: https://siasky.net/AADz2va_WIzjlqCuEolxa2W9OOFQPG0t6qCVWXrZCK0kyw
+- Video: https://siasky.net/AADMWIg0vWcmw-Uu8Yp7JUZpWHIBMV6jIS3PomLXmC41jg
 
 ---
 ## Requirements
