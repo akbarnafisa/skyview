@@ -5,13 +5,14 @@ Instantly generate multiple responsive image for your lazy loading. Powered by d
 <img src="https://siasky.net/vAKPczAimsgqX0f7J-SG7qekws__H-w2V_1WmokmbfPKRg" alt="Screenshot"/>
 
 ## Demo
-Uploading...
+https://skyview.evius.id
+https://siasky.net/AADz2va_WIzjlqCuEolxa2W9OOFQPG0t6qCVWXrZCK0kyw
 
 ---
 ## Requirements
 
-Node.js
-NPM
+- Node.js
+- NPM
 
 ## Install & Run
 
@@ -20,8 +21,8 @@ NPM
     $ npm install
 
 ## Running the project
-
-    $ npm start
+    $ npm run build
+    $ npm run start
 
 ## License
 This project is licensed under the terms of the MIT license.
