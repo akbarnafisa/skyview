@@ -1,0 +1,23 @@
+{
+  "name": "skyview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Akbar Nafisa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "compressorjs": "^1.0.6",
+    "form-data": "^3.0.0",
+    "next": "^9.3.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-dropzone": "^10.2.1",
+    "stackblur-canvas": "^2.2.0"
+  }
+}
