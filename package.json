@@ -11,7 +11,7 @@
   "author": "Akbar Nafisa",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "compressorjs": "^1.0.6",
     "form-data": "^3.0.0",
     "next": "^9.3.0",
